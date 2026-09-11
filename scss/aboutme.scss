@@ -1,0 +1,28 @@
+$primary: #3d5a80;
+$dark: #293241;
+$light: #f4f1ea;
+
+@import "header";
+@import "footer";
+
+body {
+    margin: 0;
+    background: $light;
+    color: $dark;
+    font-family: Arial, sans-serif;
+}
+
+main {
+    padding: 30px;
+    text-align: center;
+
+    img {
+        width: 200px;
+        max-width: 100%;
+        border-radius: 50%;
+    }
+
+    p {
+        font-size: 18px;
+    }
+}

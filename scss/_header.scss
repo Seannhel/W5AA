@@ -1,0 +1,16 @@
+header {
+    background: $primary;
+    color: white;
+    padding: 20px;
+    text-align: center;
+
+    nav {
+        margin-top: 10px;
+
+        a {
+            color: white;
+            margin: 0 10px;
+            text-decoration: none;
+        }
+    }
+}
