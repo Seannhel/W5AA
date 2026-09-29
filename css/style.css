@@ -1,0 +1,50 @@
+header {
+  background: #3d5a80;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+header nav {
+  margin-top: 10px;
+}
+header nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+footer {
+  background: #293241;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+footer p {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #f4f1ea;
+  color: #293241;
+  font-family: Arial, sans-serif;
+}
+
+main {
+  padding: 30px;
+  text-align: center;
+}
+main img {
+  width: 250px;
+  max-width: 100%;
+  border-radius: 10px;
+}
+main p {
+  font-size: 18px;
+}
+
+/*# sourceMappingURL=style.css.map */
